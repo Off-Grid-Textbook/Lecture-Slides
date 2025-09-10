@@ -1,0 +1,1 @@
+These are .pdf versions of lecture slides for the textbook "Off-Grid Electrical Systems in Developing Countries", 2nd Edition, by Henry Louie. Powerpoint versions of these slides, problem solutions, images and more are available to instructors through the publisher (http://bit.ly/46djj11). 
